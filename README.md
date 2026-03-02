@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Dayanand%20Shivananda%20Sagar&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
-<h1 align="center">Hi 👋, I'm Dayanand Shivananda Sagar</h1>
+<h1 align="center">Hi 👋, I'm Dayanand S Sagar</h1>
 <h3 align="center">B.E. Information Science & Engineering Student</h3>
 
 ---
@@ -46,7 +46,7 @@ B.E. in Information Science
 <p align="center">
 
 <a href="https://www.linkedin.com/in/dayanand-s-sagar-b449982b8" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Dayanand%20Sagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Dayanand%20S%20Sagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
