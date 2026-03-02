@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Dayanand%20Shivananda%20Sagar&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Dayanand%20S%20Sagar&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Hi 👋, I'm Dayanand S Sagar</h1>
 <h3 align="center">B.E. Information Science & Engineering Student</h3>
