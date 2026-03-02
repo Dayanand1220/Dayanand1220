@@ -40,11 +40,12 @@ B.E. in Information Science
 - Hindi (Working Knowledge)  
 
 ---
+
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dayanand1220&show_icons=true&theme=tokyonight&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dayanand1220&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanand1220&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dayanand1220&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
