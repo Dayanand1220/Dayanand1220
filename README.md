@@ -49,7 +49,7 @@ B.E. in Information Science
   <img src="https://img.shields.io/badge/LinkedIn-Dayanand%20Sagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="dayanand.s.sagar@gmail.com">
+<a href="mailto:dayanand.s.sagar@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
