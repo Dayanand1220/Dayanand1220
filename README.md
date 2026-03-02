@@ -41,19 +41,18 @@ B.E. in Information Science
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dayanand1220&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dayanand1220&layout=compact&theme=tokyonight)
----
-
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dayanand-s-sagar-b449982b8">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/dayanand-s-sagar-b449982b8" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Dayanand%20Sagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="dayanand.s.sagar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
