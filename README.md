@@ -43,10 +43,9 @@ B.E. in Information Science
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dayanand1220&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanand1220&layout=compact&theme=tokyonight" height="165"/>
-</p>
+![Dayanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayanand1220&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanand1220&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
